@@ -9,10 +9,13 @@ height: 100px;
 width: 100px;
 float: left;
 }
+.cell{
+    font-size: 80px;
+}
 .row{
     clear: both;
     margin: 0 auto;
-    width: 306px;
+    width: 303px;
 }
  .top
 {
